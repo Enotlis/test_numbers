@@ -4,7 +4,7 @@ from aiogram.utils import executor
 import subprocess
 
 popen_proc = ''
-bot = Bot(token="1380908711:AAF-uqpsb4YqVI05sT2PQlVz-g0wBupuN5U")
+bot = Bot(token=<TOKKEN>)
 dp = Dispatcher(bot) 
 
 @dp.message_handler(commands=['start'])
