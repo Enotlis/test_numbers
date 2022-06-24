@@ -6,7 +6,6 @@
 2. Из корня склонированного репозитория, собрать docker-контейнер для БД PostgreSQL: `sudo docker-compose build`
 3. Из корня склонированного репозитория перейти в numbers_prog, собрать docker-контейнер для Google Sheets: `sudo docker build -t numbers .`
 ***
-
 Quickstart для Docker
 -----------
 ```bash
@@ -29,4 +28,4 @@ Quickstart для Docker
 2. Отправляем команду /start и бот будет присылать уведомления
 Для того чтобы завершить работу бота отправте /stop
 ***
- 
+Ссылка на GoogleSheets: https://docs.google.com/spreadsheets/d/1vhzenzhDNAkQCeOmqjDDfFazrTNIwdZljgQzG_xZvQw/edit?usp=drivesdk
