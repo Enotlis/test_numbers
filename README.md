@@ -18,7 +18,7 @@ Quickstart для Docker
 6. sudo docker run -d --network=host numbers
 7. cd ../numbers_bot/
 8. sudo pip3 install -r requirements.txt
-9. sudo BOT_TOKEN='ваш токен бота' python3 numbers_bot.py
+9. sudo BOT_TOKEN=<ваш токен бота> python3 numbers_bot.py
 ```
 ***
 Инструкция по работе с ботом
