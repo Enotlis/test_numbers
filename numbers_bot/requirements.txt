@@ -1,0 +1,4 @@
+psycopg2-binary==2.9.1
+aiogram==2.19
+asyncio==3.4.3
+
