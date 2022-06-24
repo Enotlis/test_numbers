@@ -2,9 +2,10 @@ from aiogram import Bot, types
 from aiogram.dispatcher import Dispatcher
 from aiogram.utils import executor
 import subprocess
+import os
 
 popen_proc = ''
-bot = Bot(token=<TOKKEN>)
+bot = Bot(token=os.getenv('BOT_TOKEN'))
 dp = Dispatcher(bot) 
 
 @dp.message_handler(commands=['start'])
