@@ -24,7 +24,7 @@ Quickstart для Docker
 Инструкция по работе с ботом
 -----------
 После запуск бота делаем следующее:
-Отправляем команду /start и бот будет присылать уведомления
-Для того чтобы завершить работу бота отправте /stop
+1.Отправляем команду /start и бот будет присылать уведомления
+2.Для того чтобы завершить отправку уведомлений бота отправте /stop
 ***
 Ссылка на GoogleSheets: https://docs.google.com/spreadsheets/d/1vhzenzhDNAkQCeOmqjDDfFazrTNIwdZljgQzG_xZvQw/edit?usp=drivesdk
